@@ -1,5 +1,3 @@
-import javax.swing.text.Position;
-
 public class namingJava { // ? Java es letter sentivie las mayusculas y las minusculas cambian las variables
   public static void main(String[] args) {
     int cellphone = 333377777;
